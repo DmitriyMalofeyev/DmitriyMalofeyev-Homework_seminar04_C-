@@ -1,0 +1,15 @@
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.csproj.AssemblyReference.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.AssemblyInfoInputs.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.AssemblyInfo.cs
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.csproj.CoreCompileInputs.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\bin\Debug\net6.0\Task 29.exe
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\bin\Debug\net6.0\Task 29.deps.json
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\bin\Debug\net6.0\Task 29.runtimeconfig.json
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\bin\Debug\net6.0\Task 29.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\bin\Debug\net6.0\Task 29.pdb
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\refint\Task 29.dll
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.pdb
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\Task 29.genruntimeconfig.cache
+D:\Codering\Языки программирования\C# семинары\Homework\Homework_seminar_4\Task 29\obj\Debug\net6.0\ref\Task 29.dll
